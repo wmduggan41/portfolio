@@ -1,0 +1,166 @@
+head:
+  title: "William Duggan's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m William Duggan."
+  subtitle: "Data Scientist"
+  description: "Passionate, curious, collaborative & resourceful. Connecting human intelligence with artificial intelligence to drive effective data-informed decision making."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Me"
+    URL: "mailto:wmduggan@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/wmduggan"
+
+    - icon: "github"
+      URL: "https://github.com/wmduggan41"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/WMDuggan"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCV0EJFoBK6uwkUiWyPvW_UQ"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love solving problems.</strong> My passion is data science. But, when I am not learning, building, or creating solutions,
+    I enjoy spending time with my wife, kids, and dog. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/wmduggan"
+  image:
+    x: "img/who-am-i/me.jpg"
+    _2x: "img/who-am-i/me.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "13+ years of Operations Management experience. A visionary and performance-driven team member, with a successful track record of aligning business and data strategy to deliver initiatives that improve processes, systems, and profitability."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221qe6CeVbhwrzKGhsdAnsFFG7TKsRKG1OQ%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22101359418525313759473%22%2C%22resourceKeys%22%3A%7B%7D%7D"
+
+  items:
+    - title: "Operations Manager, Data Lead"
+      company: "Wilmington Paper Corporation"
+      duration: "Jul 2015 - Apr 2023"
+
+    - title: "Assistant Terminal Manager"
+      company: "H&M International"
+      duration: "Jan 2013 - Jun 2015"
+
+    - title: "Operations Manager"
+      company: "H&M International"
+      duration: "Jan 2012 - Jan 2013"
+
+    - title: "Assistant Operations Manager"
+      company: "APM Terminals"
+      duration: "Nov 2009 - Dec 2011"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "New Jersey Institute of Technology"
+      year: "2021-2023"
+      degree: "M.S., in Data Science"
+      
+    - university: "York College of Pennsylvania"
+      year: "2004-2008"
+      degree: "B.S., in Business Administration"
+
+    - university: "Seton Hall Preparatory"
+      year: "2000-2004"
+      degree: "High School"
+
+# work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built using ShinyR Predictive Dashboards and Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://wmduggan.shinyapps.io/sales_dashboard_forecast_app/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Stock Analyzer Application"
+      description: "This financial application analyzes trends for SP 500 stocks, and historical Gold prices. Deployed on AWS EC2 and MongoDB Atlas Cloud for managing multiple business users."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://wmduggan.shinyapps.io/stock_analyzer_app/"
+      image:
+        x: "img/works/pro.jpg"
+        _2x: "img/works/pro.jpg"
+      is_even: false
+      
+    - title: "Knowledge Distillation"
+      description: "Natural Language Processing (NLP) using a pretrained BERT-based-uncased HuggingFace model. Implements transformer pipelines, which combines tokenization, forward pass and backward pass on a specific text classification task."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Watch Presentation"
+        URL: "https://www.youtube.com/watch?v=w-WfHlZ8TN4"
+      image:
+        x: "img/works/kdn.jpg"
+        _2x: "img/works/kdn.jpg"
+      is_even: true
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact William"
+  
+  image:
+    x: "img/showcase/data-science.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:wmduggan@gmail.com'
+    
+  email:
+    title: "Email"
+    email: '<a href="mailto:wmduggan@gmail.com">wmduggan@gmail.com</a>'
+
+  

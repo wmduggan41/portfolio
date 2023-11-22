@@ -1,0 +1,51 @@
+baseURL: /
+languageCode: en-us
+theme: raditian-free-hugo-theme-data-science
+params:
+  footer:
+    copyright: © WM Duggan. All rights reserved.
+    site_logo:
+      _2x: img/general/business-science-logo.png
+      alt: Business Science
+      x: img/general/business-science-logo.png
+  googleAnalyticsID: ''
+  logo:
+    text1: William
+    text2: Duggan
+  plugins:
+    css:
+      - URL: css/main.css
+      - URL: css/rad-icons.css
+      - URL: css/custom.css
+    js:
+      - URL: js/rad-animations.js
+      - URL: js/sticky-header.js
+      - URL: js/library/fontfaceobserver.js
+  sections:
+    - showcase
+    - about
+    - client-and-work
+    - experience
+    - education
+    - contact
+menu:
+  footer:
+    - URL: '#about'
+      name: About
+      weight: 2
+    - URL: '#portfolio'
+      name: Portfolio
+      weight: 3
+    - URL: '#contact'
+      name: Contact
+      weight: 4
+  header:
+    - URL: '#about'
+      name: About
+      weight: 2
+    - URL: '#portfolio'
+      name: Portfolio
+      weight: 3
+    - URL: '#contact'
+      name: Contact
+      weight: 4
