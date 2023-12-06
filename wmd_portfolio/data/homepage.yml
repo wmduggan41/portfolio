@@ -1,12 +1,12 @@
 head:
-  title: "William Duggan's Data Science Portfolio"
+  title: "WMD Data Science Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m William Duggan."
+  title: "I am William Duggan."
   subtitle: "Data Scientist"
-  description: "Passionate, curious, collaborative & resourceful. Connecting human intelligence with artificial intelligence to drive effective data-informed decision making."
+  description: "Connecting human intelligence with artificial intelligence. Specializing in predictive modeling and data-driven strategy, with a proven track record in transforming business operations through data insights."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -39,8 +39,8 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love solving problems.</strong> My passion is data science. But, when I am not learning, building, or creating solutions,
-    I enjoy spending time with my wife, kids, and dog. 
+    I love strategizing and solving problems. My passion is data science. But, when I am not learning, building, or creating solutions,
+    I enjoy spending time with my family. 
     </p>
     <p class="lead">
     <strong>My area of focus</strong> is applying data science to business. 
