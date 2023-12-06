@@ -43,10 +43,9 @@ about:
     I enjoy spending time with my family. 
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <strong>My area of focus</strong> is applying data science to business 
+    to create value for companies by understanding the financial
+    cost of problems, and delivering a return-on-investment by providing data-informed solutions.
     </p>
   button:
     icon: "icon-smile-fill"
