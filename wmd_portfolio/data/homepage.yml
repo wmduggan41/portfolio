@@ -145,7 +145,7 @@ client_and_work:
       is_even: true
 
     - title: "Regional Sales Report"
-      description: "PowerBI dashboard showing regional sales data."
+      description: "PowerBI dashboard showing regional sales data project. NOTE: only NJIT credentials can access dashboard."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Dashboard"
@@ -156,7 +156,7 @@ client_and_work:
       is_even: false
 
     - title: "Customer Churn"
-      description: "PowerBI dashboard for Churn Prevention Analysis."
+      description: "PowerBI dashboard for churn prevention analysis project. NOTE: only NJIT credentials can access dashboard"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Dashboard"
