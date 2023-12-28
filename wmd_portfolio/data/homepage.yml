@@ -155,7 +155,16 @@ client_and_work:
         _2x: "img/works/pbi.jpg"
       is_even: false
 
-
+    - title: "Customer Churn"
+      description: "PowerBI dashboard for Churn Prevention Analysis."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Dashboard"
+        URL: "https://app.powerbi.com/reportEmbed?reportId=3c24a188-e413-4d61-86b6-40aa527c0336&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712"
+      image:
+        x: "img/works/ch.jpg"
+        _2x: "img/works/ch.jpg"
+      is_even: true
 
 # contact
 contact:
