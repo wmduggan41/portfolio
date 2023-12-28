@@ -151,8 +151,8 @@ client_and_work:
         btnText: "Launch Dashboard"
         URL: "https://app.powerbi.com/reportEmbed?reportId=27b763da-9aa8-466b-812b-2383c26b7526&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712"
       image:
-        x: "<iframe title='Regional_Sales_Report' width='1140' height='541.25' src='https://app.powerbi.com/reportEmbed?reportId=27b763da-9aa8-466b-812b-2383c26b7526&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712' frameborder='0' allowFullScreen='true'></iframe>"
-        _2x: ""
+        x: "<iframe title="Regional_Sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9d3b9b59-df3f-4c4d-809e-5d77a509abce&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>"
+        _2x: "<iframe title="Regional_Sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9d3b9b59-df3f-4c4d-809e-5d77a509abce&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>"
       is_even: false
 
 
