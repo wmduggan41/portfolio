@@ -144,6 +144,17 @@ client_and_work:
         _2x: "img/works/kdn.jpg"
       is_even: true
 
+    - title: "Regional Sales Report"
+      description: "PowerBI dashboard showing regional sales data."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Dashboard"
+        URL: "https://app.powerbi.com/reportEmbed?reportId=27b763da-9aa8-466b-812b-2383c26b7526&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712"
+      image:
+        x: "<iframe title='Regional_Sales_Report' width='1140' height='541.25' src='https://app.powerbi.com/reportEmbed?reportId=27b763da-9aa8-466b-812b-2383c26b7526&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712' frameborder='0' allowFullScreen='true'></iframe>"
+        _2x: ""
+      is_even: false
+
 
 # contact
 contact:
