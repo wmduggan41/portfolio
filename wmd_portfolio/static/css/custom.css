@@ -1,1 +1,7 @@
-/* You can customize theme styles here */
+/* Container for images */
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; /* Adjust the gap between images */
+}
