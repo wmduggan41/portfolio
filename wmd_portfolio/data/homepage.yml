@@ -164,6 +164,8 @@ client_and_work:
       image:
         x: "img/works/ch.jpg"
         _2x: "img/works/ch.jpg"
+        y: "img/works/awf.jpg"
+        _2y: "img/works/awf.jpg"
       is_even: true
 
 # contact
