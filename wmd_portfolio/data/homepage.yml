@@ -144,15 +144,15 @@ client_and_work:
         _2x: "img/works/kdn.jpg"
       is_even: true
 
-    - title: "Regional Sales Report"
-      description: "PowerBI dashboard showing regional sales data project. NOTE: only NJIT credentials can access dashboard."
+    - title: "Hierarchical Forecasting App"
+      description: "Forecast any level within a product history to generate consistent forecasts across a hierarchy of individual products, and their geographical location."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Dashboard"
-        URL: "https://app.powerbi.com/reportEmbed?reportId=27b763da-9aa8-466b-812b-2383c26b7526&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712"
+        URL: "https://wmduggan.shinyapps.io/shiny_hierarchical_forecaster_app/"
       image:
-        x: "img/works/pbi.jpg"
-        _2x: "img/works/pbi.jpg"
+        x: "img/works/hierarchical.png"
+        _2x: "img/works/hierarchical.png"
       is_even: false
 
     - title: "Customer Churn"
