@@ -165,6 +165,20 @@ client_and_work:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
       is_even: true
+      image:
+        x: "img/works/wf.jpg"
+        _2x: "img/works/wf.jpg"
+        
+    - title: "Scoring Credit Loans"
+      description: "Scoring credit loans using 2 different models (xgboost, tabnet) on different features of criteria."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Dashboard"
+        URL: "https://wmduggan.shinyapps.io/loan_default_app/"
+      image:
+        x: "img/works/loan.png"
+        _2x: "img/works/loan.png"
+      is_even: false
 
 # contact
 contact:
