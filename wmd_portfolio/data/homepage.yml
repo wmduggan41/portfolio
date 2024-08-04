@@ -165,6 +165,12 @@ client_and_work:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
       is_even: true
+
+    - title: "Workflow"
+      description: "Scale workflows for automated tasks improving productivity using cloud tools."
+      image:
+        x: "img/works/awf.jpg"
+        _2x: "img/works/awf.jpg"
         
     - title: "Scoring Credit Loans"
       description: "Scoring credit loans using 2 different models (xgboost, tabnet) on different features of criteria."
@@ -177,11 +183,6 @@ client_and_work:
         _2x: "img/works/loan.png"
       is_even: false
 
-    - title: "Workflow"
-      description: "Cloud based technology helps scale workflows for automated tasks improving productivity."
-      image:
-        x: "img/works/awf.jpg"
-        _2x: "img/works/awf.jpg"
 
 # contact
 contact:
