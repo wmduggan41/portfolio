@@ -37,7 +37,7 @@ about:
   enable: true
   title: "Overview"
   content: 
-    <p class="lead">
+    <p>
     With over 13 years of experience in logistics and operations management, combined with 7 years in data science, I have a proven track record of transforming business operations through insightful data analysis. 
     </p>
     <p>
@@ -48,8 +48,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/wmduggan"
   image:
-    x: "img/who-am-i/me.jpg"
-    _2x: "img/who-am-i/me.jpg"
+    x: "img/who-am-i/wmd.png"
+    _2x: "img/who-am-i/wmd.png"
 
 # experience
 experience:
