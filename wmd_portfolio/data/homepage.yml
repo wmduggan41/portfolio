@@ -157,10 +157,6 @@ client_and_work:
 
     - title: "Customer Churn"
       description: "Dashboard for churn prevention ranking customers over criteria by category. Allows user to interact with different metrics returning analysis and suggestive actions"
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Dashboard"
-        URL: "https://wmduggan.shinyapps.io/churn_app/"
       image:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
@@ -168,6 +164,10 @@ client_and_work:
 
     - title: "Workflow"
       description: "Scale workflows for automated tasks improving productivity using cloud tools."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Churn Dashboard"
+        URL: "https://wmduggan.shinyapps.io/churn_app/"
       image:
         x: "img/works/awf.jpg"
         _2x: "img/works/awf.jpg"
