@@ -177,13 +177,19 @@ client_and_work:
         _2x: "img/works/loan.png"
       is_even: false
 
+    - title: "Cloud based workflows for scalability"
+      image:
+        x: "img/works/awf.jpg"
+        _2x: "img/works/awf.jpg"
+      is_even: true
+
 # contact
 contact:
   enable: true
   title: "Contact William"
   
   image:
-    x: "img/works/awf.jpg"
+    x: "img/showcase/data-science.jpg"
     
   button:
     icon: "icon-mail-fill"
