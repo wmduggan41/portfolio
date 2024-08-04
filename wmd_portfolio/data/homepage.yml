@@ -165,9 +165,6 @@ client_and_work:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
       is_even: true
-      image:
-        x: "img/works/wf.jpg"
-        _2x: "img/works/wf.jpg"
         
     - title: "Scoring Credit Loans"
       description: "Scoring credit loans using 2 different models (xgboost, tabnet) on different features of criteria."
@@ -186,7 +183,7 @@ contact:
   title: "Contact William"
   
   image:
-    x: "img/showcase/data-science.jpg"
+    x: "img/showcase/wf.jpg"
     
   button:
     icon: "icon-mail-fill"
