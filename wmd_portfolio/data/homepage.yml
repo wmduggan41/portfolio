@@ -4,9 +4,8 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "I am William Duggan."
-  subtitle: "Data Scientist"
-  description: "Connecting human intelligence with artificial intelligence. Specializing in predictive modeling and data-driven strategy, with a proven track record in transforming business operations through data insights."
+  title: "Data Science | Logistics"
+  description: "I believe in harmonizing human intelligence with artificial intelligence, a belief that underpins my approach to problem-solving and customer-centric ethos."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -36,16 +35,10 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Overview"
   content: 
     <p class="lead">
-    I love strategizing and solving problems. My passion is data science. But, when I am not learning, building, or creating solutions,
-    I enjoy spending time with my family. 
-    </p>
-    <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business 
-    to create value for companies by understanding the financial
-    cost of problems, and delivering a return-on-investment by providing data-informed solutions.
+    With over 13 years of experience in logistics and operations management, combined with 7 years in data science, I have a proven track record of transforming business operations through insightful data analysis. My unique blend of expertise enables me to identify inefficiencies, optimize processes, and drive strategic decision-making that leads to measurable results.
     </p>
   button:
     icon: "icon-smile-fill"
