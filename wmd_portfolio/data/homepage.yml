@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Data Science | Logistics"
+  title: "Data Scientist"
   description: "I believe in harmonizing human intelligence with artificial intelligence, a belief that underpins my approach to problem-solving and customer-centric ethos."
   image:
     x: "img/showcase/data-science.gif"
@@ -38,7 +38,10 @@ about:
   title: "Overview"
   content: 
     <p class="lead">
-    With over 13 years of experience in logistics and operations management, combined with 7 years in data science, I have a proven track record of transforming business operations through insightful data analysis. My unique blend of expertise enables me to identify inefficiencies, optimize processes, and drive strategic decision-making that leads to measurable results.
+    With over 13 years of experience in logistics and operations management, combined with 7 years in data science, I have a proven track record of transforming business operations through insightful data analysis. 
+    </p>
+    <p>
+    My unique blend of expertise enables me to identify inefficiencies, optimize processes, and drive strategic decision-making that leads to measurable results.
     </p>
   button:
     icon: "icon-smile-fill"
