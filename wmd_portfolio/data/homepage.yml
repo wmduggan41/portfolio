@@ -177,7 +177,10 @@ client_and_work:
         _2x: "img/works/loan.png"
       is_even: false
 
-    - title: "Cloud based workflows for scalability"
+    - title: "Workflow"
+      description: "Cloud based technology helps scale workflows for automated tasks improving productivity."
+      button:
+        icon: "icon-arrow-left"
       image:
         x: "img/works/awf.jpg"
         _2x: "img/works/awf.jpg"
