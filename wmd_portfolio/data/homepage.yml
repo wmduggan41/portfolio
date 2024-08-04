@@ -157,9 +157,6 @@ client_and_work:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
       is_even: true
-
-    - title: "Workflow"
-      description: "Scale workflows for automated tasks improving productivity using cloud tools."
       button:
         icon: "icon-arrow-right"
         btnText: "Churn Dashboard"
