@@ -156,16 +156,16 @@ client_and_work:
       is_even: false
 
     - title: "Customer Churn"
-      description: "PowerBI dashboard for churn prevention analysis project. NOTE: only NJIT credentials can access dashboard"
+      description: "Dashboard for churn prevention ranking customers over criteria by category. Allows user to interact with different metrics returning analysis and suggestive actions"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Dashboard"
-        URL: "https://app.powerbi.com/reportEmbed?reportId=3c24a188-e413-4d61-86b6-40aa527c0336&autoAuth=true&ctid=17dcb00c-6941-4050-b69e-bd7eb8951712"
+        URL: "https://wmduggan.shinyapps.io/churn_app/"
       image:
-        x: "img/works/ch.jpg"
-        _2x: "img/works/ch.jpg"
-        y: "img/works/awf.jpg"
-        _2y: "img/works/awf.jpg"
+        x: "img/works/ch.png"
+        _2x: "img/works/ch.png"
+        y: "img/works/ch.png"
+        _2y: "img/works/ch.png"
       is_even: true
 
 # contact
