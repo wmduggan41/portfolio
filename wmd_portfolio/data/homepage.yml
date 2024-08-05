@@ -16,6 +16,15 @@ showcase:
     icon: "icon-mail-fill"
     btnText: "Contact Me"
     URL: "mailto:wmduggan@gmail.com"
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/wmduggan"
+    - icon: "github"
+      URL: "https://github.com/wmduggan41"
+    - icon: "twitter"
+      URL: "https://twitter.com/WMDuggan"
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCV0EJFoBK6uwkUiWyPvW_UQ"
 
 # about
 about:
@@ -28,21 +37,16 @@ about:
     <p>
     My unique blend of expertise enables me to identify inefficiencies, optimize processes, and drive strategic decision-making that leads to measurable results.
     </p>
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Me"
+    URL: "mailto:wmduggan@gmail.com"
   image:
     x: "img/who-am-i/wmd.png"
     _2x: "img/who-am-i/wmd.png"
   imageMobile:
     x: "img/who-am-i/wmd.png"
     _2x: "img/who-am-i/wmd.png"
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/wmduggan"
-    - icon: "github"
-      URL: "https://github.com/wmduggan41"
-    - icon: "twitter"
-      URL: "https://twitter.com/WMDuggan"
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCV0EJFoBK6uwkUiWyPvW_UQ"
 
 # experience
 experience:
