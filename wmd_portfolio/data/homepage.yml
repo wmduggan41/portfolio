@@ -30,7 +30,7 @@ showcase:
 about:
   enable: true
   title: "Overview"
-  content: >
+  content:
     <p>
     With over 13 years of experience in logistics and operations management, and 7 years in data science, I have a proven track record of transforming business operations through insightful data analysis.
     </p>
