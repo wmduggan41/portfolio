@@ -37,10 +37,6 @@ about:
     <p>
     My unique blend of expertise enables me to identify inefficiencies, optimize processes, and drive strategic decision-making that leads to measurable results.
     </p>
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/wmduggan"
   image:
     x: "img/who-am-i/wmd.png"
     _2x: "img/who-am-i/wmd.png"
