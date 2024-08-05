@@ -181,6 +181,8 @@ contact:
   
   image:
     x: "img/showcase/data-science.jpg"
+  imageMobile:
+    x: "img/showcase/data-science.jpg"
     
   button:
     icon: "icon-mail-fill"
