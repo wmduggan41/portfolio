@@ -40,6 +40,10 @@ about:
   image:
     x: "img/who-am-i/wmd.png"
     _2x: "img/who-am-i/wmd.png"
+  imageMobile:
+    x: "img/who-am-i/wmd.png"
+    _2x: "img/who-am-i/wmd.png"
+  separator: true
 
 # experience
 experience:
