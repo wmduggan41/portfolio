@@ -114,7 +114,7 @@ client_and_work:
         x: "img/works/pro.jpg"
         _2x: "img/works/pro.jpg"
       is_even: false
-    - separator: true
+      separator: true
     
     - title: "Hierarchical Forecasting App"
       description: "Generates consistent forecasts across a hierarchy of products and geographical locations."
@@ -126,7 +126,7 @@ client_and_work:
         x: "img/works/hierarchical.png"
         _2x: "img/works/hierarchical.png"
       is_even: true
-    - separator: true
+      separator: true
     
     - title: "Customer Churn"
       description: "A dashboard for churn prevention, ranking customers by various metrics and suggesting actions."
@@ -138,7 +138,7 @@ client_and_work:
         x: "img/works/ch.png"
         _2x: "img/works/ch.png"
       is_even: false
-    - separator: true
+      separator: true
     
     - title: "Scoring Credit Loans"
       description: "Scores credit loans using XGBoost and TabNet models based on various criteria."
@@ -150,7 +150,7 @@ client_and_work:
         x: "img/works/loan.png"
         _2x: "img/works/loan.png"
       is_even: true
-    - separator: true
+      separator: true
     
     - title: "Knowledge Distillation"
       description: "An NLP project using a pretrained BERT-based-uncased HuggingFace model for text classification."
@@ -162,7 +162,7 @@ client_and_work:
         x: "img/works/kdn.jpg"
         _2x: "img/works/kdn.jpg"
       is_even: true
-    - separator: true
+      separator: true
 
 # contact
 contact:
